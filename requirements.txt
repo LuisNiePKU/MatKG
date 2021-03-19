@@ -1,0 +1,12 @@
+MySQL>=5.6
+MariaDB>=10.0
+pandas>=1.2.1
+nltk>=3.4.1
+scikit-learn>=0.22
+numpy>=1.16.4
+monty>=2.0.4
+regex>=2019.6.8
+requests>=2.22.0
+unidecode>=1.1.0
+gensim>=3.7.1
+tqdm>=4.32.2
